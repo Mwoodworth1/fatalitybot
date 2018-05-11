@@ -42,3 +42,5 @@ bot.on("message", function(message) {
 });
 
 bot.login(TOKEN);
+
+worker: node app.js 
